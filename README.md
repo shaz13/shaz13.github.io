@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Shaz Pages
 
 You can use the [editor on GitHub](https://github.com/shaz13/shaz13.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
