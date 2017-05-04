@@ -9,11 +9,9 @@ PS: Delete index-demo.html and assets/js/demo.js when you're done messing with t
 as neither are needed in production.
 
 ## Makers
-- AJ
- aj@lkn.io | @ajlkn
+- AJ | @ajlkn
 
-- Shaz
- @shaz13
+- Shaz | @shaz13
 
 ### Credits:
 
