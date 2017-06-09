@@ -1709,6 +1709,7 @@
 
 	p {
 		margin: 0 0 2rem 0;
+		font-size: 21px
 	}
 
 		p.major {
@@ -6673,6 +6674,15 @@
 			width: 22.5rem;
 			max-width: 75vw;
 		}
+		@media screen and (max-width: 980px) {
+
+			#awards {
+				height: 150px;
+			}
+			p {
+				font-size: 18px;
+			}
+		}
 
 			.gallery.style2 article .image {
 				display: block;
@@ -6716,12 +6726,13 @@
 				left: 0;
 				width: 100%;
 				height: 100%;
-				background-color: rgba(0, 0, 0, 0.5);
+				background-color: rgba(0, 0, 0, 0.96);
 				opacity: 0;
 				padding: 3rem;
 				z-index: 1;
 				font-size: 0.8rem;
 			}
+
 
 				.gallery.style2 article .caption a {
 					-moz-pointer-events: auto;
@@ -6753,6 +6764,9 @@
 			.gallery.style2 article .caption {
 				padding: 2rem;
 			}
+			.gallery.style2. article {
+			width: 17.5rem;
+		}
 
 		}
 
